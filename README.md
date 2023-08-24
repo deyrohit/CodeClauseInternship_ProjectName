@@ -3,15 +3,26 @@ Building a machine learning model to predict whether a loan applicant will be ap
 
 Table of Contents
 
-Introduction
-Loading Dataset
-Data Cleaning
-Exploring Data
-Data Preprocessing
-Replacing the Variable values to Numeric Value
-Exploratory Data Analyis
-Final Database
-Importing Packages for Classification algorithms
-Splitting the data into Train and Test set
-Training Model using Logistic Regression
-CONCLUSION
+1.Introduction
+
+2.Loading Dataset
+
+3.Data Cleaning
+
+4.Exploring Data
+
+5.Data Preprocessing
+
+6.Replacing the Variable values to Numeric Value
+
+7.Exploratory Data Analyis
+
+8.Final Database
+
+9.Importing Packages for Classification algorithms
+
+10.Splitting the data into Train and Test set
+
+11.Training Model using Logistic Regression
+
+12.Conclusion
