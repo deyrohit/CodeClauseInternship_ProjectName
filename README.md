@@ -25,4 +25,4 @@ Table of Contents
 
 11.Training Model using Logistic Regression
 
-12.CONCLUSION
+12.Conclusion
